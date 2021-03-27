@@ -1,0 +1,7 @@
+ngrook is a tool that enable you to assign a URL on the public internet.
+
+"Basicamente coloca o localhost especificado (geralmente criado pelo npm install e npm start) online"
+
+ngrok
+ngrok --help
+ngrook http PORTNUMBER
